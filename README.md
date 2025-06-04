@@ -86,8 +86,8 @@ The project follows modern web development practices, ensuring a responsive and 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/chat-application.git
-   cd chat-application
+   git clone https://github.com/Adarshteq/Chat-Application.git
+   cd Chat-Application
    ```
 
 2. **Install dependencies for both client and server:**
