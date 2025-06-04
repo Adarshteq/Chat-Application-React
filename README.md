@@ -22,6 +22,8 @@ The application provides real-time messaging functionality, allowing users to se
 
 The project follows modern web development practices, ensuring a responsive and interactive user experience.
 
+![Screenshot 2025-05-25 191451](https://github.com/user-attachments/assets/44450212-7be3-444c-8788-f2b2fd9097bd)
+
 ### Key Features:
 
 - **Real-time messaging** using WebSockets (Socket.io)
