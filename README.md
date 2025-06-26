@@ -1,18 +1,4 @@
-# Chat Application - React.js Project
-
-## Project Details
-
-**Company:** Codtech IT Solutions  
-
-**Name:** Addanki Adarsh  
-
-**Intern ID:** CT06DL422  
-
-**Domain:** React.js Web Development  
-
-**Duration:** 6 weeks  
-
-**Mentor:** Neela Santhosh Kumar  
+## Chat Application - React.js Project
 
 ## Project Description
 
