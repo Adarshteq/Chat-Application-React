@@ -92,9 +92,5 @@ The project follows modern web development practices, ensuring a responsive and 
      cd client && npm start
      ```
 
-## Acknowledgments
 
-Special thanks to **Codtech IT Solutions** and my mentor **Neela Santhosh Kumar** for their guidance throughout this internship. 
-
-This project has been a great learning experience in **React.js, Node.js, and real-time application development**.
 
